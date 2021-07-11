@@ -1,3 +1,6 @@
+## TODO: Completing the features on the Navbar, Sidebar and the Post (like, dislike, comment, etc.) 
+## TECHNOLOGIES: React, Redux and Firebase (Authentication and Firestore Database)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
