@@ -24,7 +24,6 @@ function Feed() {
 
   const { displayName, email, profileUrl } = user;
 
-  // useEffect hook allows us to fireup code when the Feed component loads
   useEffect(() => {
     db.collection('posts')
       .orderBy('timestamp', 'desc')
